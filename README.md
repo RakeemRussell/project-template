@@ -106,12 +106,6 @@ Describe:
 * Service
 * Service
 
-### Infrastructure as Code
-
-* Terraform
-* Provider
-* State Management
-
 ### Development and Operations Tools
 
 * Git
