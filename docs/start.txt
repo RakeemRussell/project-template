@@ -1,0 +1,10 @@
+start new project step by step
+clone project-template to new project folder
+cd ~/Documents/AWS_Projects
+git clone https://github.com/RakeemRussell/project-template.git 08-aws-new-project
+cd 08-aws-example-project
+rm -rf .git
+cd ..
+git add .
+git commit -m "Added example project template"
+git push
